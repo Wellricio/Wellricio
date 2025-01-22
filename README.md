@@ -10,7 +10,7 @@
 - <div style="display: inline_block">
     <img align="center" alt="Delphi12" src="https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white" />
     <img align="center" alt="Pascal" src="https://img.shields.io/badge/Pascal-Language-yellow?logo=delphi&logoColor=black" />
-- 🗄️ <div style="display: inline_block">
+- <div style="display: inline_block">
       <img align="center" alt="MySQL" src="https://img.shields.io/badge/SQL%20Server-Database-blue?logo=microsoftsqlserver&logoColor=white" />
       <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-Database-blue?logo=mysql&logoColor=white" />
 - 📊 **Fortes Report** e **UniGUI**
