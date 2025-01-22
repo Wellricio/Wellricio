@@ -22,6 +22,9 @@
 - <div style="display: inline_block">
     <img align="center" alt="Fortes Report" src="https://img.shields.io/badge/Fortes%20Report-CC342D?style=for-the-badge&logo=radstudio&logoColor=white" />
     <img align="center" alt="UniGUI" src="https://img.shields.io/badge/UniGUI-CC342D?style=for-the-badge&logo=radstudio&logoColor=white" />
+<br>
+<h2 align="left"><u>Github Stats</u></h2>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wellricio&theme=holi-theme">
   
 
 
